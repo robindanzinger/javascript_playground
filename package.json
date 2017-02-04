@@ -1,0 +1,23 @@
+{
+  "name": "playground",
+  "version": "0.0.1",
+  "description": "playing around with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robindanzinger/javascript_playground/"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "mocha": "^3.2.0",
+    "must": "^0.13.4"
+  }
+}
